@@ -1,5 +1,8 @@
 # 💫 About Me:
-🧠 I'm currently working on my self <br>✔️ I'm looking colaborate on multiples projects<br>🧵 I'm currently learning JavaScript frameworks like React and Node<br>☁️ Aks about anything <br>👾 fun fact :  I'm currently graduating in Software Engineer 
+🧠 I'm currently working on my self <br>
+✔️ I'm looking colaborate on multiples projects<br>
+🧵 I'm currently learning JavaScript frameworks like React and Node<br>
+☁️ Aks about anything <br>
 
 
 ## 🌐 Socials:
